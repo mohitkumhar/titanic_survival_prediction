@@ -13,6 +13,8 @@ The Titanic dataset is a well-known dataset in data science and machine learning
 - **Logistic Regression**: Implements logistic regression for binary classification of survival.
 - **Model Evaluation**: Uses accuracy score and cross-validation to assess model performance.
 - **Model Serialization**: Saves the trained model using `pickle` for future predictions.
+  ![image](https://github.com/user-attachments/assets/c53f8ecc-2071-4c3e-a955-ec0d7299c783)
+
 
 ## Technologies Used
 
